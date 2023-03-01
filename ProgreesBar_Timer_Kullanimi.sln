@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgreesBar_Timer_Kullanimi", "ProgreesBar_Timer_Kullanimi\ProgreesBar_Timer_Kullanimi.csproj", "{BEAF24C8-8355-4C6C-AE61-0886535794D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAF24C8-8355-4C6C-AE61-0886535794D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAF24C8-8355-4C6C-AE61-0886535794D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAF24C8-8355-4C6C-AE61-0886535794D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAF24C8-8355-4C6C-AE61-0886535794D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC40C591-2BE9-47FA-B51F-5AD699FBD190}
+	EndGlobalSection
+EndGlobal
